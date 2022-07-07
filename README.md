@@ -7,3 +7,4 @@ Nesse repositório, apresento algumas ferramentas úteis para uso no dia a dia d
 - 1. [[DICAS] - 15 coisas úteis que você pode fazer com uma simples linha de código em Python](https://bit.ly/3yOaGtl)
 - 2. [[DICAS] - Aplicação de escalonamento de dados](https://bit.ly/3bZoCrv)
 - 3. [[DICAS] - Comparação de comandos SQL com a biblioteca PandaSQL e o Pandas](https://bit.ly/3yHPYdt)
+- 4. [[DICAS] - Explorando a biblioteca PyOD para detecção de outliers](https://bit.ly/3Rezn9j)
